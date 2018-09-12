@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#map{
+  height: 400px;
+  width: 100%
+}
+.fancy {
+  height: 400px;
+  width: 100%;
+}
